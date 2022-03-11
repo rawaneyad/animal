@@ -19,7 +19,7 @@ Animal is a website to introduce children to animals that shows pictures and nam
 - HTML.
 - CSS.
 - JS.
-- API.
+- [API](https://zoo-animal-api.herokuapp.com/).
 
 ## :pushpin: **Installing the project locally** <span id='install'></span>
 
